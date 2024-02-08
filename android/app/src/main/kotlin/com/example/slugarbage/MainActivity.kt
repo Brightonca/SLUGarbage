@@ -1,4 +1,4 @@
-package com.example.ricebowl_project
+package com.example.slugarbage
 
 import io.flutter.embedding.android.FlutterActivity
 

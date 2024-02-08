@@ -1,6 +1,6 @@
 {
-    "name": "ricebowl_project",
-    "short_name": "ricebowl_project",
+    "name": "slugarbage",
+    "short_name": "slugarbage",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

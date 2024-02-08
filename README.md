@@ -1,6 +1,5 @@
-# slugarbage
-
-A new Flutter project.
+# SLUGarbage
+A disposal info and map application for UCSC
 
 ## Getting Started
 
