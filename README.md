@@ -1,4 +1,4 @@
-# ricebowl_project
+# slugarbage
 
 A new Flutter project.
 
